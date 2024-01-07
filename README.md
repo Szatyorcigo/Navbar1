@@ -38,6 +38,4 @@ li a:hover {
 
 </body>
 </html>
-Meli
-Meli Szabó
-Azt letudod nekem videozni h alapból h kell csinálni mindent lépésről lépésre🤗 légyszíves
+
